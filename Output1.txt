@@ -1,0 +1,513 @@
+		Before Serialization:
+
+Department list:
+ECE
+CS
+
+Classroom list:
+Harvill 101
+Harvill 203
+Gould Simpson 102
+Gould Simpson 105
+
+The professor list for department ECE
+Regan
+RosenBlit
+Tharp
+
+The professor list for department CS
+Kececioglu
+Homer
+
+The course list for department ECE
+ECE275 Computer Programming II
+ECE320 Circuits Analysis
+ECE373 Object Oriented Software Design
+ECE107 Experimental Course
+ECE610 Online_Course_1
+ECE620 Online_Course_2
+
+The course list for department CS
+CS387 Enterprise Web Applications
+CS372 Comparative Programming Languages
+CS345 Discrete Structures
+CS426 Computer Networks
+CS630 Online_Course_3
+CS640 Online_Course_4
+
+The schedule for classroom Harvill 101
+Mon 9:30am to 10:45am ECE320 Circuits Analysis
+Wed 9:30am to 10:45am ECE320 Circuits Analysis
+
+The schedule for classroom Harvill 203
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+
+The schedule for classroom Gould Simpson 102
+Mon 9:30am to 10:45am CS426 Computer Networks
+Wed 9:30am to 10:45am CS426 Computer Networks
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+
+The schedule for classroom Gould Simpson 105
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+
+Department ECE
+
+Printing professor schedules:
+
+The schedule for Prof. Regan:
+ECE610 Online_Course_1
+
+The schedule for Prof. RosenBlit:
+ECE620 Online_Course_2
+
+The schedule for Prof. Tharp:
+Mon 9:30am to 10:45am ECE320 Circuits Analysis
+Wed 9:30am to 10:45am ECE320 Circuits Analysis
+
+Printing student schedules:
+
+The schedule for student Lahiru:
+Mon 9:30am to 10:45am CS426 Computer Networks
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Wed 9:30am to 10:45am CS426 Computer Networks
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+ECE610 Online_Course_1
+
+The schedule for student Daz:
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+ECE620 Online_Course_2
+
+Printing staff schedules:
+
+
+The rosters for courses offered by ECE
+
+The roster for course ECE275
+
+The roster for course ECE320
+Jerry
+
+The roster for course ECE373
+
+The roster for course ECE107
+
+Department CS
+
+Printing professor schedules:
+
+The schedule for Prof. Kececioglu:
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+CS630 Online_Course_3
+
+The schedule for Prof. Homer:
+Mon 9:30am to 10:45am CS426 Computer Networks
+Wed 9:30am to 10:45am CS426 Computer Networks
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+CS640 Online_Course_4
+
+Printing student schedules:
+
+The schedule for student Yuchao:
+Mon 9:30am to 10:45am CS426 Computer Networks
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Wed 9:30am to 10:45am CS426 Computer Networks
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+CS630 Online_Course_3
+
+The schedule for student Jerry:
+Mon 9:30am to 10:45am ECE320 Circuits Analysis
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Wed 9:30am to 10:45am ECE320 Circuits Analysis
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+CS640 Online_Course_4
+
+Printing staff schedules:
+
+The schedule for employee Carol:
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+
+Staff: Carol earns 3200.0 this month
+
+The rosters for courses offered by CS
+
+The roster for course CS387
+Lahiru
+Yuchao
+Jerry
+Carol
+
+The roster for course CS372
+Daz
+Yuchao
+Jerry
+
+The roster for course CS345
+Daz
+Yuchao
+
+The roster for course CS426
+Lahiru
+Yuchao
+
+
+
+
+		before Serialization add one course:
+
+Department list:
+ECE
+CS
+
+Classroom list:
+Harvill 101
+Harvill 203
+Gould Simpson 102
+Gould Simpson 105
+
+The professor list for department ECE
+Regan
+RosenBlit
+Tharp
+
+The professor list for department CS
+Kececioglu
+Homer
+
+The course list for department ECE
+ECE275 Computer Programming II
+ECE320 Circuits Analysis
+ECE373 Object Oriented Software Design
+ECE107 Experimental Course
+ECE501 test Course
+ECE610 Online_Course_1
+ECE620 Online_Course_2
+
+The course list for department CS
+CS387 Enterprise Web Applications
+CS372 Comparative Programming Languages
+CS345 Discrete Structures
+CS426 Computer Networks
+CS630 Online_Course_3
+CS640 Online_Course_4
+
+The schedule for classroom Harvill 101
+Mon 9:30am to 10:45am ECE320 Circuits Analysis
+Wed 9:30am to 10:45am ECE320 Circuits Analysis
+
+The schedule for classroom Harvill 203
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+
+The schedule for classroom Gould Simpson 102
+Mon 9:30am to 10:45am CS426 Computer Networks
+Wed 9:30am to 10:45am CS426 Computer Networks
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+
+The schedule for classroom Gould Simpson 105
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+
+Department ECE
+
+Printing professor schedules:
+
+The schedule for Prof. Regan:
+ECE610 Online_Course_1
+
+The schedule for Prof. RosenBlit:
+ECE620 Online_Course_2
+
+The schedule for Prof. Tharp:
+Mon 9:30am to 10:45am ECE320 Circuits Analysis
+Wed 9:30am to 10:45am ECE320 Circuits Analysis
+
+Printing student schedules:
+
+The schedule for student Lahiru:
+Mon 9:30am to 10:45am CS426 Computer Networks
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Wed 9:30am to 10:45am CS426 Computer Networks
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+ECE610 Online_Course_1
+
+The schedule for student Daz:
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+ECE620 Online_Course_2
+
+Printing staff schedules:
+
+
+The rosters for courses offered by ECE
+
+The roster for course ECE275
+
+The roster for course ECE320
+Jerry
+
+The roster for course ECE373
+
+The roster for course ECE107
+
+The roster for course ECE501
+
+Department CS
+
+Printing professor schedules:
+
+The schedule for Prof. Kececioglu:
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+CS630 Online_Course_3
+
+The schedule for Prof. Homer:
+Mon 9:30am to 10:45am CS426 Computer Networks
+Wed 9:30am to 10:45am CS426 Computer Networks
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+CS640 Online_Course_4
+
+Printing student schedules:
+
+The schedule for student Yuchao:
+Mon 9:30am to 10:45am CS426 Computer Networks
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Wed 9:30am to 10:45am CS426 Computer Networks
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+CS630 Online_Course_3
+
+The schedule for student Jerry:
+Mon 9:30am to 10:45am ECE320 Circuits Analysis
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Wed 9:30am to 10:45am ECE320 Circuits Analysis
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+CS640 Online_Course_4
+
+Printing staff schedules:
+
+The schedule for employee Carol:
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+
+Staff: Carol earns 3200.0 this month
+
+The rosters for courses offered by CS
+
+The roster for course CS387
+Lahiru
+Yuchao
+Jerry
+Carol
+
+The roster for course CS372
+Daz
+Yuchao
+Jerry
+
+The roster for course CS345
+Daz
+Yuchao
+
+The roster for course CS426
+Lahiru
+Yuchao
+
+
+
+
+		Post Serialization:
+
+Department list:
+ECE
+CS
+
+Classroom list:
+Harvill 101
+Harvill 203
+Gould Simpson 102
+Gould Simpson 105
+
+The professor list for department ECE
+Regan
+RosenBlit
+Tharp
+
+The professor list for department CS
+Kececioglu
+Homer
+
+The course list for department ECE
+ECE275 Computer Programming II
+ECE320 Circuits Analysis
+ECE373 Object Oriented Software Design
+ECE107 Experimental Course
+ECE610 Online_Course_1
+ECE620 Online_Course_2
+
+The course list for department CS
+CS387 Enterprise Web Applications
+CS372 Comparative Programming Languages
+CS345 Discrete Structures
+CS426 Computer Networks
+CS630 Online_Course_3
+CS640 Online_Course_4
+
+The schedule for classroom Harvill 101
+Mon 9:30am to 10:45am ECE320 Circuits Analysis
+Wed 9:30am to 10:45am ECE320 Circuits Analysis
+
+The schedule for classroom Harvill 203
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+
+The schedule for classroom Gould Simpson 102
+Mon 9:30am to 10:45am CS426 Computer Networks
+Wed 9:30am to 10:45am CS426 Computer Networks
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+
+The schedule for classroom Gould Simpson 105
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+
+Department ECE
+
+Printing professor schedules:
+
+The schedule for Prof. Regan:
+ECE610 Online_Course_1
+
+The schedule for Prof. RosenBlit:
+ECE620 Online_Course_2
+
+The schedule for Prof. Tharp:
+Mon 9:30am to 10:45am ECE320 Circuits Analysis
+Wed 9:30am to 10:45am ECE320 Circuits Analysis
+
+Printing student schedules:
+
+The schedule for student Lahiru:
+Mon 9:30am to 10:45am CS426 Computer Networks
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Wed 9:30am to 10:45am CS426 Computer Networks
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+ECE610 Online_Course_1
+
+The schedule for student Daz:
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+ECE620 Online_Course_2
+
+Printing staff schedules:
+
+
+The rosters for courses offered by ECE
+
+The roster for course ECE275
+
+The roster for course ECE320
+Jerry
+
+The roster for course ECE373
+
+The roster for course ECE107
+
+Department CS
+
+Printing professor schedules:
+
+The schedule for Prof. Kececioglu:
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+CS630 Online_Course_3
+
+The schedule for Prof. Homer:
+Mon 9:30am to 10:45am CS426 Computer Networks
+Wed 9:30am to 10:45am CS426 Computer Networks
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+CS640 Online_Course_4
+
+Printing student schedules:
+
+The schedule for student Yuchao:
+Mon 9:30am to 10:45am CS426 Computer Networks
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Wed 9:30am to 10:45am CS426 Computer Networks
+Wed 11:00am to 12:15pm CS345 Discrete Structures
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+Fri 11:00am to 12:15pm CS345 Discrete Structures
+CS630 Online_Course_3
+
+The schedule for student Jerry:
+Mon 9:30am to 10:45am ECE320 Circuits Analysis
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Tue 9:30am to 10:45am CS372 Comparative Programming Languages
+Wed 9:30am to 10:45am ECE320 Circuits Analysis
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 9:30am to 10:45am CS372 Comparative Programming Languages
+CS640 Online_Course_4
+
+Printing staff schedules:
+
+The schedule for employee Carol:
+Tue 8:00am to 9:15am CS387 Enterprise Web Applications
+Thu 8:00am to 9:15am CS387 Enterprise Web Applications
+
+Staff: Carol earns 3200.0 this month
+
+The rosters for courses offered by CS
+
+The roster for course CS387
+Lahiru
+Yuchao
+Jerry
+Carol
+
+The roster for course CS372
+Daz
+Yuchao
+Jerry
+
+The roster for course CS345
+Daz
+Yuchao
+
+The roster for course CS426
+Lahiru
+Yuchao
+
